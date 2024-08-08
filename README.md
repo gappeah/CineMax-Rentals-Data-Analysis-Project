@@ -59,6 +59,8 @@ The CineMax Rentals Data Analysis Project aims to provide insights into various 
 
 - **Rental Trends**: Identifying popular movies, peak rental times, and seasonal trends.![CineMax Rentals Data Analysis Project Images_page-0004](https://github.com/user-attachments/assets/775649e5-0fa1-4210-a45d-9732288aae2e)
 ![CineMax Rentals Data Analysis Project Images_page-0006](https://github.com/user-attachments/assets/d9a59c6e-c997-4807-8785-f63862408d17)
+![CineMax Rentals Data Analysis Project Images_page-0007](https://github.com/user-attachments/assets/55a300b3-e565-4480-b4c6-fbdda564cdf5)
+
 
 - **Inventory Management**: Analyzing inventory levels, stock turnover, and out-of-stock situations.
 ![CineMax Rentals Data Analysis Project Images_page-0005](https://github.com/user-attachments/assets/ed5f157f-9520-4b42-9a7b-54e0adb6a311)
@@ -66,7 +68,6 @@ The CineMax Rentals Data Analysis Project aims to provide insights into various 
 - **Revenue Insights**: Tracking revenue streams and identifying growth opportunities.
 ![CineMax Rentals Data Analysis Project Images_page-0008](https://github.com/user-attachments/assets/e1c200ab-af86-4ce8-964c-717b6cb2d7fc)
 
-![CineMax Rentals Data Analysis Project Images_page-0007](https://github.com/user-attachments/assets/55a300b3-e565-4480-b4c6-fbdda564cdf5)
 ## Acknowledgments
 
 - The Sakila database was created by MySQL and is used as a sample database for learning and testing purposes.
