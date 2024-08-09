@@ -1,5 +1,5 @@
 # CineMax Rentals Data Analysis Project
-![CineMax Rentals Data Analysis Project Images_page-0001](https://github.com/user-attachments/assets/51c138ed-0726-49cc-8c09-d630ea4ffa4f)
+![CineMax Rentals Data Analysis Project Images_page-0001](https://github.com/user-attachments/assets/46d38975-4bf1-4a87-8617-ee6c87a372bd)
 
 * This repository contains the data analysis project for **CineMax Rentals**, a fictional movie rental company. The project uses data from the Sakila database, a sample database designed for a DVD rental store. The analysis is performed using Power BI, providing insights into rental patterns, customer behaviour, and inventory management.
 * This project aims to utilise the provided database schema to create a realistic business scenario where the following information is extracted and analysed data using MySQL and Power BI.
@@ -13,7 +13,7 @@
   
 - **sakila-schema.sql**: SQL script to create the schema for the Sakila database. This includes the creation of tables, indexes, and relationships necessary for the data analysis.
 
-![Capture](https://github.com/user-attachments/assets/f84a6b9e-a153-471e-b153-fb718b077af1)
+![Capture](https://github.com/user-attachments/assets/8ff3f304-a79c-4bfe-91da-b38fa89449a1)
 
 
 - **sakila-data.sql**: SQL script to populate the Sakila database with sample data. This data includes information about films, rentals, customers, inventory, and more.
@@ -54,19 +54,19 @@ To explore the CineMax Rentals Data Analysis Project, follow the steps below:
 
 The CineMax Rentals Data Analysis Project aims to provide insights into various aspects of a DVD rental business, including:
 
-- **Customer Analysis**: Understanding customer demographics, behaviour, and preferences.
-![CineMax Rentals Data Analysis Project Images_page-0002](https://github.com/user-attachments/assets/29f61080-b067-4d82-a36b-2c256a0ca357)![CineMax Rentals Data Analysis Project Images_page-0003](https://github.com/user-attachments/assets/5fb2552d-4e35-452e-9bf9-c4ce86c9feb0)
-
-- **Rental Trends**: Identifying popular movies, peak rental times, and seasonal trends.![CineMax Rentals Data Analysis Project Images_page-0004](https://github.com/user-attachments/assets/775649e5-0fa1-4210-a45d-9732288aae2e)
-![CineMax Rentals Data Analysis Project Images_page-0006](https://github.com/user-attachments/assets/d9a59c6e-c997-4807-8785-f63862408d17)
-![CineMax Rentals Data Analysis Project Images_page-0007](https://github.com/user-attachments/assets/55a300b3-e565-4480-b4c6-fbdda564cdf5)
+# Customer Analysis: Understanding customer demographics, behaviour, and preferences.
+![CineMax Rentals Data Analysis Project Images_page-0002](https://github.com/user-attachments/assets/1e6f6797-19a0-46d6-a1ec-11e59cb1c2c7)![CineMax Rentals Data Analysis Project Images_page-0003](https://github.com/user-attachments/assets/8f60fa8a-fedb-4585-beb5-87b347170848)
 
 
-- **Inventory Management**: Analyzing inventory levels, stock turnover, and out-of-stock situations.
-![CineMax Rentals Data Analysis Project Images_page-0005](https://github.com/user-attachments/assets/ed5f157f-9520-4b42-9a7b-54e0adb6a311)
 
-- **Revenue Insights**: Tracking revenue streams and identifying growth opportunities.
-![CineMax Rentals Data Analysis Project Images_page-0008](https://github.com/user-attachments/assets/e1c200ab-af86-4ce8-964c-717b6cb2d7fc)
+# Rental Trends: Identifying popular movies, peak rental times, and seasonal trends.
+  ![CineMax Rentals Data Analysis Project Images_page-0005](https://github.com/user-attachments/assets/34d5b141-867c-4170-a22b-8b9a03289b49)
+
+# Inventory Management: Analyzing inventory levels, stock turnover, and out-of-stock situations.
+![CineMax Rentals Data Analysis Project Images_page-0004](https://github.com/user-attachments/assets/e0f0e6e0-7e3b-4580-9b8d-ed1da4865783)
+
+# Revenue Insights: Tracking revenue streams and identifying growth opportunities.
+![CineMax Rentals Data Analysis Project Images_page-0006](https://github.com/user-attachments/assets/6f8b5d84-d4f3-4224-ac96-a40e8ca6cc20)![CineMax Rentals Data Analysis Project Images_page-0007](https://github.com/user-attachments/assets/635ff61f-9551-487d-9009-c4176658ed9e)![CineMax Rentals Data Analysis Project Images_page-0008](https://github.com/user-attachments/assets/b78f4e5f-576a-4f75-9f47-1a6460da1fcb)
 
 ## Acknowledgments
 
