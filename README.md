@@ -1,7 +1,7 @@
 # CineMax Rentals Data Analysis Project
 ![CineMax Rentals Data Analysis Project Images_page-0001](https://github.com/user-attachments/assets/46d38975-4bf1-4a87-8617-ee6c87a372bd)
 
-## Summary
+## Project Overview
 * This repository contains the data analysis project for **CineMax Rentals**, a fictional movie rental company. The project uses data from the Sakila database, a sample database designed for a DVD rental store. The analysis is performed using Power BI, providing insights into rental patterns, customer behaviour, and inventory management.
 * This project aims to utilise the provided database schema to create a realistic business scenario where the following information is extracted and analysed data using MySQL and Power BI.
 * The project will answer specific business questions through descriptive, diagnostic, and predictive analysis and present.
